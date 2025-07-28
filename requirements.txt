@@ -7,3 +7,5 @@ nbimporter
 time
 requests
 pprint
+xgboost
+catboost
