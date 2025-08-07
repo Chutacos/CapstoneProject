@@ -4,6 +4,7 @@ This project aims to predict the popularity of YouTube videos using publicly ava
 
 ## Project Structure
 
+```
 capstone_project/
 │
 ├── Main_Notebook.ipynb # Project overview with links to each section
@@ -21,7 +22,7 @@ capstone_project/
 ├── Other_Material/
 │ ├── youtube_api_setup.ipynb # Initial API key setup and test
 │ └── catboost_info/ # CatBoost output and logs
-
+```
 
 ## Models Used
 
