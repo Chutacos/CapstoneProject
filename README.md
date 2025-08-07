@@ -63,6 +63,7 @@ pip install -r requirements.txt
 
 4. Run Main_Notebook.ipynb to explore each step of the pipeline
 
-Contributors
-Tysir Shehadey
+**Contributors**  
+Tysir Shehadey  
 Jose Guarneros Padilla
+
