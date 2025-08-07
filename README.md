@@ -47,9 +47,10 @@ Each model was evaluated using:
 ## Notes
 
 - API key is **not included** in this repository. To run the data collection notebook, create an `api.py` file in `Other_Material/` with your own YouTube API key:
-```markdown
+
 ```python
 API_KEY = "your_api_key_here"
+```
 
 ## How to Run
 
